@@ -5,6 +5,7 @@ language: C,Cpp,Csharp,java,python...
 abstruct:   study git...
 file list:
     readme.md
+    hello.c //hello file
 
 
 end list
